@@ -1,0 +1,212 @@
+Profile: https://github.com/Abdul-Asa
+Repositories:
+
+- Abdul-Asa (1 stars)
+  Description: My GitHub profile
+  URL: https://github.com/Abdul-Asa/Abdul-Asa
+  Language: Not specified
+  Created At: 2023-08-10T22:02:50Z
+  Updated At: 2023-08-13T12:19:26Z
+
+- ai-chatgpt (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/ai-chatgpt
+  Language: TypeScript
+  Created At: 2023-08-11T19:18:40Z
+  Updated At: 2023-08-11T19:21:48Z
+
+- Alieos (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/Alieos
+  Language: JavaScript
+  Created At: 2023-02-11T14:52:31Z
+  Updated At: 2023-02-12T10:36:03Z
+
+- asa-chatbot (1 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/asa-chatbot
+  Language: TypeScript
+  Created At: 2023-08-13T00:47:02Z
+  Updated At: 2023-08-13T00:58:37Z
+
+- create-react-app-lambda (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/create-react-app-lambda
+  Language: JavaScript
+  Created At: 2021-08-18T01:01:25Z
+  Updated At: 2021-08-18T01:02:37Z
+
+- CRUD-api-Postgres (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/CRUD-api-Postgres
+  Language: JavaScript
+  Created At: 2021-06-18T16:26:57Z
+  Updated At: 2021-06-18T22:39:06Z
+
+- CSS (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/CSS
+  Language: Not specified
+  Created At: 2021-03-06T16:10:11Z
+  Updated At: 2021-03-06T16:10:12Z
+
+- css-pre-study-course (0 stars)
+  Description: Pre-study boilerplate for CSS module
+  URL: https://github.com/Abdul-Asa/css-pre-study-course
+  Language: HTML
+  Created At: 2021-02-24T21:00:03Z
+  Updated At: 2021-03-02T04:11:48Z
+
+- Express-task (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/Express-task
+  Language: JavaScript
+  Created At: 2021-06-01T19:46:16Z
+  Updated At: 2021-06-01T19:46:23Z
+
+- firstRepo (0 stars)
+  Description: My first Git Repo
+  URL: https://github.com/Abdul-Asa/firstRepo
+  Language: HTML
+  Created At: 2021-02-12T14:03:54Z
+  Updated At: 2021-06-28T17:40:26Z
+
+- FullStackWebsite (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/FullStackWebsite
+  Language: SCSS
+  Created At: 2021-07-25T20:24:46Z
+  Updated At: 2021-07-25T20:24:51Z
+
+- GH-pages (0 stars)
+  Description: Test my proficiency on github pages
+  URL: https://github.com/Abdul-Asa/GH-pages
+  Language: HTML
+  Created At: 2021-03-10T08:02:38Z
+  Updated At: 2021-03-11T06:29:25Z
+
+- git-pre-study-course (0 stars)
+  Description: Git Pre Study Course
+  URL: https://github.com/Abdul-Asa/git-pre-study-course
+  Language: HTML
+  Created At: 2021-02-12T21:48:00Z
+  Updated At: 2021-02-12T22:09:28Z
+
+- github-slideshow (0 stars)
+  Description: A robot powered training repository :robot:
+  URL: https://github.com/Abdul-Asa/github-slideshow
+  Language: Ruby
+  Created At: 2021-02-12T14:25:18Z
+  Updated At: 2021-02-12T21:44:47Z
+
+- guess-the-comic (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/guess-the-comic
+  Language: TypeScript
+  Created At: 2023-07-26T07:02:24Z
+  Updated At: 2023-07-26T07:02:33Z
+
+- guess-the-comic-app (1 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/guess-the-comic-app
+  Language: TypeScript
+  Created At: 2023-08-02T21:04:46Z
+  Updated At: 2023-08-10T20:35:26Z
+
+- Hangman-game (2 stars)
+  Description: my hangman game
+  URL: https://github.com/Abdul-Asa/Hangman-game
+  Language: JavaScript
+  Created At: 2021-03-28T10:30:27Z
+  Updated At: 2022-09-05T18:10:36Z
+
+- hangman_the_void (1 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/hangman_the_void
+  Language: JavaScript
+  Created At: 2022-07-30T23:07:36Z
+  Updated At: 2022-09-05T18:09:12Z
+
+- image-pointers (0 stars)
+  Description: For image pointer list
+  URL: https://github.com/Abdul-Asa/image-pointers
+  Language: HTML
+  Created At: 2021-03-05T05:27:42Z
+  Updated At: 2021-03-05T06:35:38Z
+
+- lendie-loan-api (0 stars)
+  Description: Server and API functions for the Lendie loan application
+  URL: https://github.com/Abdul-Asa/lendie-loan-api
+  Language: JavaScript
+  Created At: 2021-09-25T08:36:36Z
+  Updated At: 2021-11-18T07:07:30Z
+
+- Lendie-Loan-App (1 stars)
+  Description: Stutern Inter-track project: Loan application
+  URL: https://github.com/Abdul-Asa/Lendie-Loan-App
+  Language: JavaScript
+  Created At: 2021-09-22T23:44:37Z
+  Updated At: 2022-09-05T18:09:17Z
+
+- MileStone-project (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/MileStone-project
+  Language: JavaScript
+  Created At: 2021-05-02T22:25:22Z
+  Updated At: 2021-05-04T22:30:42Z
+
+- MongoDb-Tutorial (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/MongoDb-Tutorial
+  Language: JavaScript
+  Created At: 2021-08-18T23:14:40Z
+  Updated At: 2021-08-18T23:14:46Z
+
+- MotorServiceApp (1 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/MotorServiceApp
+  Language: JavaScript
+  Created At: 2021-07-25T12:28:02Z
+  Updated At: 2021-07-30T14:53:38Z
+
+- MotorServicingApp (0 stars)
+  Description: An automotive workshop that delivers doorstep service
+  URL: https://github.com/Abdul-Asa/MotorServicingApp
+  Language: JavaScript
+  Created At: 2021-07-24T01:38:22Z
+  Updated At: 2021-08-26T14:39:48Z
+
+- msa-file (0 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/msa-file
+  Language: TypeScript
+  Created At: 2023-09-11T16:24:13Z
+  Updated At: 2023-09-11T16:24:19Z
+
+- My-Portfolio (2 stars)
+  Description: No description provided
+  URL: https://github.com/Abdul-Asa/My-Portfolio
+  Language: HTML
+  Created At: 2021-06-23T01:03:50Z
+  Updated At: 2023-01-13T12:24:19Z
+
+- Node-task (0 stars)
+  Description: Node exercise
+  URL: https://github.com/Abdul-Asa/Node-task
+  Language: JavaScript
+  Created At: 2021-05-27T03:46:23Z
+  Updated At: 2021-05-27T19:43:56Z
+
+- notion-quote (1 stars)
+  Description: Notion Random Quote Generator
+  URL: https://github.com/Abdul-Asa/notion-quote
+  Language: HTML
+  Created At: 2022-09-05T18:07:18Z
+  Updated At: 2022-09-05T18:35:29Z
+
+- Personal-Capstone-Project (1 stars)
+  Description: Stutern Personal Capstone Project
+  URL: https://github.com/Abdul-Asa/Personal-Capstone-Project
+  Language: JavaScript
+  Created At: 2021-08-20T21:45:21Z
+  Updated At: 2022-03-08T02:05:52Z
