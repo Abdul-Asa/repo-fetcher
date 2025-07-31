@@ -1,19 +1,16 @@
 {
   "name": "ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "GitHub profile and repository fetcher",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "bun run index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.5.1"
-  },
-  "devDependencies": {
-    "@types/node": "^20.8.2",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.2.2"
+    "axios": "^1.5.1",
+    "commander": "^11.1.0",
+    "@clack/prompts": "^0.7.0"
   }
 }
