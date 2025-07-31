@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "GitHub profile and repository fetcher",
   "main": "index.js",
-  "scripts": {
-    "start": "bun run index.ts"
+  "scripts": {},
+  "bin": {
+    "github-cli": "./cli/index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.5.1",
-    "commander": "^11.1.0",
-    "@clack/prompts": "^0.7.0"
+    "@clack/prompts": "^0.7.0",
+    "octokit": "^5.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
   }
 }
