@@ -18,36 +18,6 @@ An interactive command-line tool to fetch and display GitHub user repositories. 
 - 🎯 Command-line arguments for quick access
 - 🔐 GitHub token support for private repositories and repository editing
 
-## Recent Changes
-
-_This section is automatically updated based on recent commits._
-
-### 2025-08-01 - b5cf8f9
-
-**📦 Dependencies:**
-
-- Updated dependencies
-
-## 2025-08-01 - f74ca1e
-
-**✨ New Features:**
-
-- Added authentication support
-
-**📦 Dependencies:**
-
-- Updated dependencies
-
-**📚 Documentation:**
-
-- Updated documentation
-
-## 2025-08-01 - 11af27f
-
-**✨ New Features:**
-
-- Added JSON output format support
-
 ## Installation
 
 1. Clone this repository:
