@@ -1,0 +1,392 @@
+GitHub Profile: https://github.com/Abdul-Asa
+Username: Abdul-Asa
+Total Repositories: 40
+Public Repositories: 35
+Private Repositories: 5
+
+Repositories:
+
+- repo-fetcher (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/repo-fetcher
+  Created At: 2023-10-07T14:36:31Z
+  Updated At: 2025-07-31T19:31:31Z
+  Last Push: 2025-07-31T19:31:27Z
+
+- leetcode (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/leetcode
+  Created At: 2025-01-02T00:53:45Z
+  Updated At: 2025-07-28T08:43:30Z
+  Last Push: 2025-07-28T08:43:27Z
+
+- Abdul-Asa (1 stars, 0 forks)
+  Description: My GitHub profile
+  Language: Not specified
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Abdul-Asa
+  Created At: 2023-08-10T22:02:50Z
+  Updated At: 2025-07-22T16:02:08Z
+  Last Push: 2025-07-22T16:02:04Z
+
+- My-Portfolio (2 stars, 0 forks)
+  Description: No description provided
+  Language: HTML
+  Private: No
+  Homepage:  https://abdul-asa.github.io/My-Portfolio/
+  Repository URL: https://github.com/Abdul-Asa/My-Portfolio
+  Created At: 2021-06-23T01:03:50Z
+  Updated At: 2025-07-22T15:14:54Z
+  Last Push: 2022-10-17T14:22:06Z
+
+- MotorServicingApp (0 stars, 0 forks)
+  Description: An automotive workshop that delivers doorstep service
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/MotorServicingApp
+  Created At: 2021-07-24T01:38:22Z
+  Updated At: 2025-07-22T15:09:02Z
+  Last Push: 2025-07-22T15:08:58Z
+
+- please (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://please-dusky.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/please
+  Created At: 2025-04-14T19:55:13Z
+  Updated At: 2025-05-15T08:08:03Z
+  Last Push: 2025-05-15T08:07:59Z
+
+- asa-portfolio (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: Yes
+  Homepage: https://asa-dev.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/asa-portfolio
+  Created At: 2023-09-02T21:06:15Z
+  Updated At: 2025-02-07T09:35:25Z
+  Last Push: 2025-02-07T09:35:21Z
+
+- asa-chatbot (2 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://asa-chatbot.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/asa-chatbot
+  Created At: 2023-08-13T00:47:02Z
+  Updated At: 2024-12-06T21:54:40Z
+  Last Push: 2023-08-13T12:18:48Z
+
+- CW (0 stars, 0 forks)
+  Description: No description provided
+  Language: Python
+  Private: Yes
+  Repository URL: https://github.com/Abdul-Asa/CW
+  Created At: 2024-11-02T19:40:36Z
+  Updated At: 2024-11-06T15:57:11Z
+  Last Push: 2024-11-06T15:57:08Z
+
+- Notion-widget (1 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Homepage: notion-widget-omega.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/Notion-widget
+  Created At: 2022-09-05T16:03:06Z
+  Updated At: 2024-09-18T10:44:40Z
+  Last Push: 2022-09-09T18:57:56Z
+
+- risidio-task (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://risidio-task.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/risidio-task
+  Created At: 2024-04-13T12:35:07Z
+  Updated At: 2024-06-22T01:30:10Z
+  Last Push: 2024-06-22T01:30:06Z
+
+- live-blocks-demo (1 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://live-blocks-demo.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/live-blocks-demo
+  Created At: 2023-11-27T01:38:15Z
+  Updated At: 2024-06-20T19:06:37Z
+  Last Push: 2024-06-20T19:06:33Z
+
+- food-diaries (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://food-diaries-rho.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/food-diaries
+  Created At: 2024-06-03T16:11:06Z
+  Updated At: 2024-06-07T12:19:37Z
+  Last Push: 2024-06-07T12:19:34Z
+
+- tabletop-task (0 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Homepage: https://tabletop-task.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/tabletop-task
+  Created At: 2024-05-01T01:43:27Z
+  Updated At: 2024-05-11T20:06:49Z
+  Last Push: 2024-05-11T20:06:46Z
+
+- warp (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://warp-ivory-one.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/warp
+  Created At: 2024-05-10T01:05:41Z
+  Updated At: 2024-05-10T01:10:52Z
+  Last Push: 2024-05-10T01:09:28Z
+
+- COMP2212_CW (0 stars, 0 forks)
+  Description: No description provided
+  Language: Logos
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/COMP2212_CW
+  Created At: 2024-03-30T14:36:45Z
+  Updated At: 2024-03-31T00:21:33Z
+  Last Push: 2024-03-31T00:34:03Z
+
+- fusion-hack (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://fusion-hack-eight.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/fusion-hack
+  Created At: 2024-03-16T14:46:38Z
+  Updated At: 2024-03-17T10:12:53Z
+  Last Push: 2024-03-17T12:32:28Z
+
+- Hangman-game (2 stars, 0 forks)
+  Description: my hangman game
+  Language: JavaScript
+  Private: No
+  Homepage: https://abdul-asa.github.io/Hangman-game
+  Repository URL: https://github.com/Abdul-Asa/Hangman-game
+  Created At: 2021-03-28T10:30:27Z
+  Updated At: 2024-02-29T14:39:18Z
+  Last Push: 2021-11-28T15:13:47Z
+
+- live-canvas (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://live-canvas-six.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/live-canvas
+  Created At: 2024-02-09T12:42:47Z
+  Updated At: 2024-02-09T12:44:45Z
+  Last Push: 2024-03-10T13:15:31Z
+
+- Coursework (0 stars, 0 forks)
+  Description: No description provided
+  Language: Haskell
+  Private: Yes
+  Repository URL: https://github.com/Abdul-Asa/Coursework
+  Created At: 2023-12-22T18:33:20Z
+  Updated At: 2023-12-22T18:33:27Z
+  Last Push: 2023-12-28T14:42:57Z
+
+- 3sc-task (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://3sc-task.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/3sc-task
+  Created At: 2023-11-08T16:51:38Z
+  Updated At: 2023-11-11T14:47:53Z
+  Last Push: 2023-11-17T12:29:04Z
+
+- qr-code-component-fem (0 stars, 0 forks)
+  Description: No description provided
+  Language: HTML
+  Private: No
+  Homepage: https://abdul-asa.github.io/qr-code-component-fem/
+  Repository URL: https://github.com/Abdul-Asa/qr-code-component-fem
+  Created At: 2023-11-07T18:29:21Z
+  Updated At: 2023-11-08T09:18:51Z
+  Last Push: 2023-11-08T09:16:49Z
+
+- nextjs-portfolio (0 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: Yes
+  Homepage: https://asa-portfolio.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/nextjs-portfolio
+  Created At: 2023-08-23T12:49:34Z
+  Updated At: 2023-08-24T11:35:45Z
+  Last Push: 2023-09-02T12:44:06Z
+
+- guess-the-comic-app (1 stars, 0 forks)
+  Description: No description provided
+  Language: TypeScript
+  Private: No
+  Homepage: https://guess-the-comic.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/guess-the-comic-app
+  Created At: 2023-08-02T21:04:46Z
+  Updated At: 2023-08-10T20:35:26Z
+  Last Push: 2023-08-10T20:28:41Z
+
+- Proposal (0 stars, 0 forks)
+  Description: No description provided
+  Language: HTML
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Proposal
+  Created At: 2023-08-10T14:40:29Z
+  Updated At: 2023-08-10T14:41:19Z
+  Last Push: 2023-08-10T14:40:32Z
+
+- Alieos (0 stars, 1 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Homepage: https://alieos.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/Alieos
+  Created At: 2023-02-11T14:52:31Z
+  Updated At: 2023-02-12T10:36:03Z
+  Last Push: 2023-02-12T11:17:41Z
+
+- notion-quote (1 stars, 0 forks)
+  Description: Notion Random Quote Generator
+  Language: HTML
+  Private: No
+  Homepage: https://saman.dev/notion-quote
+  Repository URL: https://github.com/Abdul-Asa/notion-quote
+  Created At: 2022-09-05T18:07:18Z
+  Updated At: 2022-09-05T18:35:29Z
+  Last Push: 2022-09-07T20:17:22Z
+
+- Lendie-Loan-App (1 stars, 3 forks)
+  Description: Stutern Inter-track project: Loan application
+  Language: JavaScript
+  Private: No
+  Homepage: https://lendie-loan-app.vercel.app/
+  Repository URL: https://github.com/Abdul-Asa/Lendie-Loan-App
+  Created At: 2021-09-22T23:44:37Z
+  Updated At: 2022-09-05T18:09:17Z
+  Last Push: 2021-12-08T12:53:21Z
+
+- websockets (1 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Homepage: websockets-five.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/websockets
+  Created At: 2022-08-16T15:18:51Z
+  Updated At: 2022-09-05T18:09:14Z
+  Last Push: 2022-08-27T16:34:12Z
+
+- hangman_the_void (1 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Homepage: hangman-lovat.vercel.app
+  Repository URL: https://github.com/Abdul-Asa/hangman_the_void
+  Created At: 2022-07-30T23:07:36Z
+  Updated At: 2022-09-05T18:09:12Z
+  Last Push: 2022-08-27T16:48:44Z
+
+- Phaser (1 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Phaser
+  Created At: 2022-08-31T23:11:02Z
+  Updated At: 2022-09-05T18:09:10Z
+  Last Push: 2023-08-01T21:38:01Z
+
+- Personal-Capstone-Project (1 stars, 0 forks)
+  Description: Stutern Personal Capstone Project
+  Language: JavaScript
+  Private: No
+  Homepage: https://asa-padrone.herokuapp.com
+  Repository URL: https://github.com/Abdul-Asa/Personal-Capstone-Project
+  Created At: 2021-08-20T21:45:21Z
+  Updated At: 2022-03-08T02:05:52Z
+  Last Push: 2021-10-08T15:21:53Z
+
+- lendie-loan-api (0 stars, 0 forks)
+  Description: Server and API functions for the Lendie loan application
+  Language: JavaScript
+  Private: No
+  Homepage: https://lendie-loan-app.herokuapp.com
+  Repository URL: https://github.com/Abdul-Asa/lendie-loan-api
+  Created At: 2021-09-25T08:36:36Z
+  Updated At: 2021-11-18T07:07:30Z
+  Last Push: 2021-11-18T07:07:28Z
+
+- MongoDb-Tutorial (0 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/MongoDb-Tutorial
+  Created At: 2021-08-18T23:14:40Z
+  Updated At: 2021-08-18T23:14:46Z
+  Last Push: 2021-08-18T23:14:44Z
+
+- CRUD-api-Postgres (0 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/CRUD-api-Postgres
+  Created At: 2021-06-18T16:26:57Z
+  Updated At: 2021-06-18T22:39:06Z
+  Last Push: 2021-06-18T22:39:03Z
+
+- Express-task (0 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Express-task
+  Created At: 2021-06-01T19:46:16Z
+  Updated At: 2021-06-01T19:46:23Z
+  Last Push: 2021-06-01T19:46:21Z
+
+- Node-task (0 stars, 0 forks)
+  Description: Node exercise
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Node-task
+  Created At: 2021-05-27T03:46:23Z
+  Updated At: 2021-05-27T19:43:56Z
+  Last Push: 2021-05-27T19:43:54Z
+
+- MileStone-project (0 stars, 0 forks)
+  Description: No description provided
+  Language: JavaScript
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/MileStone-project
+  Created At: 2021-05-02T22:25:22Z
+  Updated At: 2021-05-04T22:30:42Z
+  Last Push: 2021-05-04T22:30:39Z
+
+- Udemy-clone (0 stars, 0 forks)
+  Description: clone of Udemy course page
+  Language: HTML
+  Private: No
+  Repository URL: https://github.com/Abdul-Asa/Udemy-clone
+  Created At: 2021-03-06T04:10:32Z
+  Updated At: 2021-03-08T03:28:45Z
+  Last Push: 2021-03-08T03:28:43Z
+
+- HTML-task (0 stars, 0 forks)
+  Description: Stutern html task
+  Language: HTML
+  Private: Yes
+  Repository URL: https://github.com/Abdul-Asa/HTML-task
+  Created At: 2021-02-24T04:20:40Z
+  Updated At: 2021-02-24T04:21:37Z
+  Last Push: 2021-02-24T04:21:35Z
+
