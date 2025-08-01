@@ -1,0 +1,268 @@
+Repository Analysis Report
+==========================================
+
+GitHub Profile: https://github.com/Abdul-Asa
+Total Repositories: 40
+Analysis Date: 2025-08-01T14:20:35.556Z
+
+SUMMARY:
+- 30 repositories missing descriptions
+- 16 repositories missing homepages
+- 4 repositories with potentially broken homepages
+
+REPOSITORIES MISSING DESCRIPTIONS:
+----------------------------------------
+- repo-fetcher
+  URL: https://github.com/Abdul-Asa/repo-fetcher
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- leetcode
+  URL: https://github.com/Abdul-Asa/leetcode
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- My-Portfolio
+  URL: https://github.com/Abdul-Asa/My-Portfolio
+  Language: HTML
+  Stars: 2, Forks: 0
+
+- please
+  URL: https://github.com/Abdul-Asa/please
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- asa-portfolio
+  URL: https://github.com/Abdul-Asa/asa-portfolio
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- asa-chatbot
+  URL: https://github.com/Abdul-Asa/asa-chatbot
+  Language: TypeScript
+  Stars: 2, Forks: 0
+
+- CW
+  URL: https://github.com/Abdul-Asa/CW
+  Language: Python
+  Stars: 0, Forks: 0
+
+- Notion-widget
+  URL: https://github.com/Abdul-Asa/Notion-widget
+  Language: JavaScript
+  Stars: 1, Forks: 0
+
+- risidio-task
+  URL: https://github.com/Abdul-Asa/risidio-task
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- live-blocks-demo
+  URL: https://github.com/Abdul-Asa/live-blocks-demo
+  Language: TypeScript
+  Stars: 1, Forks: 0
+
+- food-diaries
+  URL: https://github.com/Abdul-Asa/food-diaries
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- tabletop-task
+  URL: https://github.com/Abdul-Asa/tabletop-task
+  Language: JavaScript
+  Stars: 0, Forks: 0
+
+- warp
+  URL: https://github.com/Abdul-Asa/warp
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- COMP2212_CW
+  URL: https://github.com/Abdul-Asa/COMP2212_CW
+  Language: Logos
+  Stars: 0, Forks: 0
+
+- fusion-hack
+  URL: https://github.com/Abdul-Asa/fusion-hack
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- live-canvas
+  URL: https://github.com/Abdul-Asa/live-canvas
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- Coursework
+  URL: https://github.com/Abdul-Asa/Coursework
+  Language: Haskell
+  Stars: 0, Forks: 0
+
+- 3sc-task
+  URL: https://github.com/Abdul-Asa/3sc-task
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- qr-code-component-fem
+  URL: https://github.com/Abdul-Asa/qr-code-component-fem
+  Language: HTML
+  Stars: 0, Forks: 0
+
+- nextjs-portfolio
+  URL: https://github.com/Abdul-Asa/nextjs-portfolio
+  Language: TypeScript
+  Stars: 0, Forks: 0
+
+- guess-the-comic-app
+  URL: https://github.com/Abdul-Asa/guess-the-comic-app
+  Language: TypeScript
+  Stars: 1, Forks: 0
+
+- Proposal
+  URL: https://github.com/Abdul-Asa/Proposal
+  Language: HTML
+  Stars: 0, Forks: 0
+
+- Alieos
+  URL: https://github.com/Abdul-Asa/Alieos
+  Language: JavaScript
+  Stars: 0, Forks: 1
+
+- websockets
+  URL: https://github.com/Abdul-Asa/websockets
+  Language: JavaScript
+  Stars: 1, Forks: 0
+
+- hangman_the_void
+  URL: https://github.com/Abdul-Asa/hangman_the_void
+  Language: JavaScript
+  Stars: 1, Forks: 0
+
+- Phaser
+  URL: https://github.com/Abdul-Asa/Phaser
+  Language: JavaScript
+  Stars: 1, Forks: 0
+
+- MongoDb-Tutorial
+  URL: https://github.com/Abdul-Asa/MongoDb-Tutorial
+  Language: JavaScript
+  Stars: 0, Forks: 0
+
+- CRUD-api-Postgres
+  URL: https://github.com/Abdul-Asa/CRUD-api-Postgres
+  Language: JavaScript
+  Stars: 0, Forks: 0
+
+- Express-task
+  URL: https://github.com/Abdul-Asa/Express-task
+  Language: JavaScript
+  Stars: 0, Forks: 0
+
+- MileStone-project
+  URL: https://github.com/Abdul-Asa/MileStone-project
+  Language: JavaScript
+  Stars: 0, Forks: 0
+
+REPOSITORIES MISSING HOMEPAGES:
+----------------------------------------
+- repo-fetcher
+  URL: https://github.com/Abdul-Asa/repo-fetcher
+  Description: No description
+  Language: TypeScript
+
+- leetcode
+  URL: https://github.com/Abdul-Asa/leetcode
+  Description: No description
+  Language: TypeScript
+
+- Abdul-Asa
+  URL: https://github.com/Abdul-Asa/Abdul-Asa
+  Description: My GitHub profile
+  Language: Not specified
+
+- MotorServicingApp
+  URL: https://github.com/Abdul-Asa/MotorServicingApp
+  Description: An automotive workshop that delivers doorstep service
+  Language: JavaScript
+
+- CW
+  URL: https://github.com/Abdul-Asa/CW
+  Description: No description
+  Language: Python
+
+- COMP2212_CW
+  URL: https://github.com/Abdul-Asa/COMP2212_CW
+  Description: No description
+  Language: Logos
+
+- Coursework
+  URL: https://github.com/Abdul-Asa/Coursework
+  Description: No description
+  Language: Haskell
+
+- Proposal
+  URL: https://github.com/Abdul-Asa/Proposal
+  Description: No description
+  Language: HTML
+
+- Phaser
+  URL: https://github.com/Abdul-Asa/Phaser
+  Description: No description
+  Language: JavaScript
+
+- MongoDb-Tutorial
+  URL: https://github.com/Abdul-Asa/MongoDb-Tutorial
+  Description: No description
+  Language: JavaScript
+
+- CRUD-api-Postgres
+  URL: https://github.com/Abdul-Asa/CRUD-api-Postgres
+  Description: No description
+  Language: JavaScript
+
+- Express-task
+  URL: https://github.com/Abdul-Asa/Express-task
+  Description: No description
+  Language: JavaScript
+
+- Node-task
+  URL: https://github.com/Abdul-Asa/Node-task
+  Description: Node exercise
+  Language: JavaScript
+
+- MileStone-project
+  URL: https://github.com/Abdul-Asa/MileStone-project
+  Description: No description
+  Language: JavaScript
+
+- Udemy-clone
+  URL: https://github.com/Abdul-Asa/Udemy-clone
+  Description: clone of Udemy course page
+  Language: HTML
+
+- HTML-task
+  URL: https://github.com/Abdul-Asa/HTML-task
+  Description: Stutern html task
+  Language: HTML
+
+REPOSITORIES WITH POTENTIALLY BROKEN HOMEPAGES:
+--------------------------------------------------
+- My-Portfolio
+  URL: https://github.com/Abdul-Asa/My-Portfolio
+  Current Homepage:  https://abdul-asa.github.io/My-Portfolio/
+  Description: No description
+
+- Notion-widget
+  URL: https://github.com/Abdul-Asa/Notion-widget
+  Current Homepage: notion-widget-omega.vercel.app
+  Description: No description
+
+- websockets
+  URL: https://github.com/Abdul-Asa/websockets
+  Current Homepage: websockets-five.vercel.app
+  Description: No description
+
+- hangman_the_void
+  URL: https://github.com/Abdul-Asa/hangman_the_void
+  Current Homepage: hangman-lovat.vercel.app
+  Description: No description
+
