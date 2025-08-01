@@ -23,7 +23,18 @@ An interactive command-line tool to fetch and display GitHub user repositories. 
 
 *This section is automatically updated based on recent commits.*
 
-### 2025-08-01 - 11af27f
+### 2025-08-01 - f74ca1e
+
+**✨ New Features:**
+- Added authentication support
+
+**📦 Dependencies:**
+- Updated dependencies
+
+**📚 Documentation:**
+- Updated documentation
+
+## 2025-08-01 - 11af27f
 
 **✨ New Features:**
 - Added JSON output format support
