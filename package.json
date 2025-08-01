@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "GitHub profile and repository fetcher",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js",
+    "setup-hooks": "./scripts/setup-hooks.sh"
+  },
   "bin": {
     "github-cli": "./cli/index.ts"
   },

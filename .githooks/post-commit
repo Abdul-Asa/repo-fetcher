@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Post-commit hook to automatically update README.md based on commit changes
+echo "🔄 Running automatic README update..."
+
+# Check if the update script exists
+if [ -f "./scripts/update-readme.js" ]; then
+    # Run the README updater script
+    node ./scripts/update-readme.js
+    
+    # If the README was updated, stage and amend the commit (optional)
+    if git diff --quiet HEAD -- README.md; then
+        echo "ℹ️ No README changes detected"
+    else
+        echo "📝 README.md was updated - consider committing these changes"
+        echo "💡 Run: git add README.md && git commit --amend --no-edit"
+    fi
+else
+    echo "⚠️ README updater script not found at ./scripts/update-readme.js"
+fi
+
+echo "✅ Post-commit hook completed"
