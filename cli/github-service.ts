@@ -11,6 +11,12 @@ import {
 export class GitHubService {
   private octokit: Octokit;
 
+  /**
+   * Initialize GitHub service with optional authentication
+   * @param token GitHub Personal Access Token with 'repo' scope required for:
+   *              - Accessing private repositories
+   *              - Editing repository metadata (description, homepage, privacy, features)
+   */
   constructor(token?: string) {
     this.octokit = new Octokit({
       auth: token,
@@ -40,6 +46,10 @@ export class GitHubService {
     } catch (error) {
       console.warn(
         "\n⚠️  Warning: Invalid token, falling back to unauthenticated access"
+      );
+      console.warn("   Ensure your token has 'repo' scope. Create one at:");
+      console.warn(
+        "   https://github.com/settings/tokens?scopes=repo&description=GitHub%20CLI%20Tool"
       );
       return { username: "", isAuthenticated: false };
     }

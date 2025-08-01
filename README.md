@@ -16,32 +16,36 @@ An interactive command-line tool to fetch and display GitHub user repositories. 
 - 📄 Optional file output with interactive file naming
 - ⚡ Progress indicators and error handling
 - 🎯 Command-line arguments for quick access
-- 🔐 GitHub token support for private repositories
-
+- 🔐 GitHub token support for private repositories and repository editing
 
 ## Recent Changes
 
-*This section is automatically updated based on recent commits.*
+_This section is automatically updated based on recent commits._
 
 ### 2025-08-01 - b5cf8f9
 
 **📦 Dependencies:**
+
 - Updated dependencies
 
 ## 2025-08-01 - f74ca1e
 
 **✨ New Features:**
+
 - Added authentication support
 
 **📦 Dependencies:**
+
 - Updated dependencies
 
 **📚 Documentation:**
+
 - Updated documentation
 
 ## 2025-08-01 - 11af27f
 
 **✨ New Features:**
+
 - Added JSON output format support
 
 ## Installation
@@ -53,7 +57,7 @@ git clone [your-repo-url]
 cd repo-fetcher
 ```
 
-2. Install dependencies:
+1. Install dependencies:
 
 ```bash
 bun install
@@ -96,9 +100,31 @@ Fetches repositories and saves directly to the specified file.
   - `created`: Creation date
   - `stars`: Number of stars
   - `name`: Repository name
-- `-t, --token <token>`: GitHub personal access token for private repos
+- `-t, --token <token>`: GitHub personal access token (requires `repo` scope for private repos and editing)
 - `--help`: Display help information
 - `--version`: Display version information
+
+### Personal Access Token (PAT) Requirements
+
+The GitHub Personal Access Token is **optional** for basic functionality but **required** for advanced features:
+
+#### **No Token Required:**
+
+- ✅ Fetch public repositories for any user
+- ✅ Export repository data to files
+
+#### **Token Required - `repo` scope:**
+
+- 🔐 Access your private repositories
+- ✏️ Edit repository metadata (description, homepage)
+- 🔒 Change repository privacy settings (public/private)
+- ⚙️ Modify repository features (issues, wiki, projects)
+
+#### **How to Create a PAT:**
+
+1. Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
+2. Generate new token with **`repo`** scope (Full control of private repositories)
+3. Copy the token and use it with the `-t` flag or set as `GITHUB_ACCESS_TOKEN` environment variable
 
 ### Examples
 
@@ -112,17 +138,20 @@ bun run index.ts -U octocat -s created -f output.txt
 # Sort alphabetically by name with JSON output
 bun run index.ts -U octocat -s name -f repositories.json
 
-# Use personal access token for private repos
+# Use personal access token for private repos and editing
 bun run index.ts -U your-username -t github_pat_... -f all-repos.json
 ```
 
 ## Output Formats
 
 ### Text Format (.txt)
+
 Human-readable format with detailed repository information, perfect for viewing and sharing.
 
 ### JSON Format (.json)
+
 Structured data format ideal for:
+
 - API integrations
 - Data processing and analysis
 - Backup and archival

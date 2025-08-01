@@ -15,7 +15,10 @@ program
   .name("github-cli")
   .description("CLI tool to fetch and edit GitHub repositories using Octokit")
   .version("1.0.0")
-  .option("-t, --token <token>", "GitHub personal access token")
+  .option(
+    "-t, --token <token>",
+    "GitHub personal access token (requires 'repo' scope for private repos and editing)"
+  )
   .option("-u, --user <username>", "GitHub username")
   .option(
     "-s, --sort <sort>",
@@ -63,6 +66,19 @@ async function main() {
         tokenInput.trim() !== ""
       ) {
         token = tokenInput.trim();
+      }
+
+      // Show PAT requirements info if no token provided
+      if (!token) {
+        console.log(
+          "\n💡 No token provided. You can still fetch public repositories."
+        );
+        console.log(
+          "   For private repos and editing features, create a PAT with 'repo' scope at:"
+        );
+        console.log(
+          "   https://github.com/settings/tokens?scopes=repo&description=GitHub%20CLI%20Tool"
+        );
       }
     }
 
